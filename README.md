@@ -40,10 +40,13 @@
 
 ### เคยทำ
 
-**แขนกล 1 แกน — STM32** · จบ มิ.ย. 2026
+**แขนกล 1 แกน — STM32** · จบ มิ.ย. 2026 · [`StudiO_G09`](https://github.com/purePutthipong/StudiO_G09)
 นำฝ่าย programming ในทีม 6 คน — หุ่นยนต์หมุน 360° หยิบแท่งไปวางตำแหน่งเป้าหมาย
 Cascade controller (position ครอบ velocity) + S-curve trajectory บน STM32G474
 Kalman filter ประมาณความเร็วจาก encoder · Modbus RTU slave เชื่อมกับระบบส่วนกลาง
+
+**[Thai Tax Calculator](https://github.com/purePutthipong/thai-tax-calculator)** · TypeScript
+เครื่องคำนวณภาษีเงินได้บุคคลธรรมดาตามขั้นบันไดของไทย
 
 ### เครื่องมือ
 
