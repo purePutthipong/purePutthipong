@@ -2,7 +2,7 @@
 
 # Putthipong W.
 
-**Robotics &amp; AI Engineering · ปี 3 · FIBO, KMUTT**
+**Robotics &amp; AI Engineering · Year 3 · FIBO, KMUTT**
 
 <a href="https://github.com/purePutthipong"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=E09A4E&center=true&vCenter=true&width=520&lines=STM32+firmware+%E2%86%92+Isaac+Lab+policies;control+theory+%C3%97+machine+learning" alt="STM32 firmware to Isaac Lab policies" /></a>
 
@@ -11,3 +11,17 @@
 </p>
 
 </div>
+
+### Now
+
+Two years of embedded work — STM32, motor control, sensors.
+Now learning the other half: how AI actually moves a machine.
+
+```console
+$ ltd status
+research   Physical AI — VLA, diffusion policy
+learning   FRA503 Deep RL · Isaac Lab
+shipped    ESP32 pump controller — watchdog, OTA
+running    homelab — Pi 4, n8n, Home Assistant
+building   LTD OS — personal ops + AI companion
+```
