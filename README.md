@@ -17,8 +17,9 @@
 Two years of embedded work — STM32, motor control, sensors.
 Now learning the other half: how AI actually moves a machine.
 
-```console
-$ ltd status
+```
+STATUS
+─────────────────────────────────────────
 research   Physical AI — VLA, diffusion policy
 learning   FRA503 Deep RL · Isaac Lab
 shipped    ESP32 pump controller — watchdog, OTA
