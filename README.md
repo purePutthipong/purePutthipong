@@ -27,6 +27,10 @@ running    homelab — Pi 4, n8n, Home Assistant
 building   LTD OS — personal ops + AI companion
 ```
 
+<div align="center">
+
 <img src="g1-isaac-lab.gif" width="560" alt="Unitree G1 locomotion policies in Isaac Lab" />
 
 <sub>Reproducing <b>AMPCO</b> (Sangthaworn &amp; Sakulkueakulsuk, FIBO KMUTT) — Unitree G1, 20k iterations</sub>
+
+</div>
